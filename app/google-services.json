@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96318051008",
+    "project_id": "rcte-a43a6",
+    "storage_bucket": "rcte-a43a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96318051008:android:5d3b84a6c3891a4d34d325",
+        "android_client_info": {
+          "package_name": "com.example.rcte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96318051008-dccc0vfee5ta66vr4g9itju9nvi8bmuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmYbb6VN1vh1DKw2qjohploc-fiyXjwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96318051008-dccc0vfee5ta66vr4g9itju9nvi8bmuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
