@@ -12,6 +12,12 @@
         android:theme="@style/Theme.Rcte"
         tools:targetApi="31">
         <activity
+            android:name=".Userprofile"
+            android:exported="false" />
+        <activity
+            android:name=".movetomain"
+            android:exported="false" />
+        <activity
             android:name=".HomeScreen"
             android:exported="false" />
         <activity
